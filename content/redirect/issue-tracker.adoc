@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: https://issues.jenkins-ci.org
----

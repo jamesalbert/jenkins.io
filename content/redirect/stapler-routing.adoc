@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /doc/upgrade-guide/2.138/#SECURITY-595
----

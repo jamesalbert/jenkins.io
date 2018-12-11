@@ -1,5 +1,0 @@
----
-name: "Carl Caum"
-twitter: ccaum
-github: ccaum
----

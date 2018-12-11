@@ -1,7 +1,0 @@
----
-name: "Daniel Beck"
-github: daniel-beck
----
-
-Daniel is a Jenkins core maintainer and, as security officer, leads the link:/security/#team[Jenkins security team].
-He sometimes contributes to developer documentation and project infrastructure.

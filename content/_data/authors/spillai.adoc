@@ -1,5 +1,0 @@
----
-name: 'Sanil Pillai'
----
-
-Director of Labs & Strategic Insights, Infostretch

@@ -1,5 +1,0 @@
----
-name: "Minudika Malshan"
-github: minudika
-twitter: minudika
----

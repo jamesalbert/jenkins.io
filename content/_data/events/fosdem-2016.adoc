@@ -1,7 +1,0 @@
----
-title: "FOSDEM 2016"
-date: "2016-01-29T09:00:00"
-link: "https://fosdem.org/2016"
----
-
-This is an example of an old event and should never render in the website

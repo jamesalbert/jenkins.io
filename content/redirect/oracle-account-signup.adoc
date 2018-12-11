@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: https://jenkins-ci.org/oracleAccountSignup # TODO get rid of double redirect
----

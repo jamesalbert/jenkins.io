@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2018/03/15/jep-200-lts/
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: https://en.wikipedia.org/wiki/Java_Web_Start#Deprecation
----

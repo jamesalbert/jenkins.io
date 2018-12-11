@@ -1,5 +1,0 @@
----
-title: Preparing a Groovy-based View for Localization
-layout: developerguide
-wip: true
----

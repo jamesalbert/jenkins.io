@@ -1,5 +1,0 @@
----
-title: Model
-layout: developersection
-wip: true
----

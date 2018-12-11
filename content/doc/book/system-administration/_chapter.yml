@@ -1,7 +1,0 @@
----
-sections:
-  - backing-up
-  - monitoring
-  - security
-  - with-chef
-  - with-puppet
